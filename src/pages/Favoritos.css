@@ -1,0 +1,45 @@
+
+
+.minha-lista {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.minha-lista h2 {
+    margin-bottom: 14px;
+    color: #FFF;
+}
+
+.minha-lista span {
+    font-size: 18px;
+    color: #FFF;
+}
+
+.minha-lista ul {
+    width: 720px;
+}
+
+.minha-lista ul li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+    color: #FFF;
+    padding: 1rem 2rem;
+}
+
+.minha-lista div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.minha-lista div a {
+    text-decoration: none;
+    color: #f7d354;
+    transition: 0.5s;
+    margin-right: 14px;
+}
